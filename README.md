@@ -90,7 +90,7 @@ _(More projects coming soon as I continue learning.)_
 <!-- Trophies -->
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfujur221&theme=flat&no-frame=true&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmahfuj-cse&theme=flat&no-frame=true&margin-w=10" alt="trophies"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ _(More projects coming soon as I continue learning.)_
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mahfujur221&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=mdmahfuj-cse&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -114,5 +114,5 @@ _(More projects coming soon as I continue learning.)_
 <!-- Activity Graph -->
 <h3 align="center">📊 Contribution Activity</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfujur221&custom_title=My%20Contribution%20Graph&bg_color=FFFFFF&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmahfuj-cse&custom_title=My%20Contribution%20Graph&bg_color=FFFFFF&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true"/>
 </div>
