@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Python & Backend Developer | CSE Student | Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  💻 Python • Backend • APIs • Problem Solving  
+  💻 Frontend • Python • Backend • APIs • Problem Solving  
 </p>
 
 ---
